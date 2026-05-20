@@ -22,11 +22,11 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   
   // Followers - Cambiar mensajes
   const messages = [
-    'Venho Aq dnv Pra te Irritar',
-    'Te Amo Muito Minha Princesa',
-    'Desculpa Te irritar Muito',
-    'Vou tentar Puxar Mais Assunto',
-    '¡Te Amo Bobona Linda ❤️!'
+    'Estou Aq dnv Pra te Irritar😝',
+    'Eu Te Amo Muito Minha Princesa😍',
+    'Desculpa Te irritar Muito😭',
+    'Vou tentar Puxar Mais Assunto😥 (Sou Ruim Nisso)',
+    '¡Eu Te Amo MUITO Bobona Linda ❤️❤️❤️!'
   ];
   
   var wrapper = document.querySelector('.wrapper');
